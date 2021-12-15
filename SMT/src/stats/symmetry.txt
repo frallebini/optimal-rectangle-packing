@@ -1,0 +1,1406 @@
+Type instance number (1–40): 1
+Finished in 17msec
+(:added-eqs                      950
+ :arith-eq-adapter               229
+ :arith-bound-propagations-cheap 1206
+ :arith-bound-propagations-lp    153
+ :arith-cheap-eqs                581
+ :arith-conflicts                2
+ :arith-diseq                    97
+ :arith-lower                    975
+ :arith-make-feasible            533
+ :arith-max-columns              32
+ :arith-max-rows                 20
+ :arith-propagations             1206
+ :arith-upper                    859
+ :binary-propagations            1219
+ :conflicts                      12
+ :decisions                      507
+ :del-clause                     1111
+ :final-checks                   33
+ :max-memory                     1.41
+ :memory                         1.39
+ :mk-bool-var                    240
+ :mk-clause                      1227
+ :num-allocs                     30640
+ :num-checks                     27
+ :pb-predicates                  25
+ :pb-propagations                6
+ :propagations                   2683
+ :rlimit-count                   39234)
+
+Type instance number (1–40): 2
+Finished in 39msec
+(:added-eqs                      4865
+ :arith-eq-adapter               536
+ :arith-bound-propagations-cheap 7605
+ :arith-bound-propagations-lp    826
+ :arith-cheap-eqs                910
+ :arith-conflicts                17
+ :arith-diseq                    237
+ :arith-lower                    5106
+ :arith-make-feasible            1462
+ :arith-max-columns              35
+ :arith-max-rows                 21
+ :arith-propagations             7605
+ :arith-upper                    4761
+ :binary-propagations            6328
+ :conflicts                      97
+ :decisions                      2079
+ :del-clause                     7952
+ :final-checks                   65
+ :max-memory                     1.97
+ :memory                         1.95
+ :minimized-lits                 76
+ :mk-bool-var                    398
+ :mk-clause                      8132
+ :num-allocs                     70768
+ :num-checks                     53
+ :pb-conflicts                   40
+ :pb-predicates                  61
+ :pb-propagations                478
+ :pb-resolves                    40
+ :propagations                   15583
+ :rlimit-count                   118584)
+
+Type instance number (1–40): 3
+Finished in 59msec
+(:added-eqs                      13283
+ :arith-eq-adapter               902
+ :arith-bound-propagations-cheap 9039
+ :arith-bound-propagations-lp    1439
+ :arith-cheap-eqs                1740
+ :arith-conflicts                35
+ :arith-diseq                    405
+ :arith-lower                    6348
+ :arith-make-feasible            1987
+ :arith-max-columns              53
+ :arith-max-rows                 37
+ :arith-propagations             9039
+ :arith-upper                    6307
+ :binary-propagations            14710
+ :conflicts                      152
+ :decisions                      3243
+ :del-clause                     9447
+ :final-checks                   61
+ :max-memory                     2.55
+ :memory                         2.52
+ :minimized-lits                 128
+ :mk-bool-var                    899
+ :mk-clause                      10011
+ :num-allocs                     102407
+ :num-checks                     50
+ :pb-conflicts                   70
+ :pb-predicates                  205
+ :pb-propagations                524
+ :pb-resolves                    57
+ :propagations                   32766
+ :rlimit-count                   202932)
+
+Type instance number (1–40): 4
+Finished in 62msec
+(:added-eqs                      13286
+ :arith-eq-adapter               864
+ :arith-bound-propagations-cheap 9513
+ :arith-bound-propagations-lp    1666
+ :arith-cheap-eqs                1232
+ :arith-conflicts                39
+ :arith-diseq                    383
+ :arith-lower                    7790
+ :arith-make-feasible            1723
+ :arith-max-columns              66
+ :arith-max-rows                 47
+ :arith-propagations             9513
+ :arith-upper                    5687
+ :binary-propagations            14741
+ :conflicts                      170
+ :decisions                      2435
+ :del-clause                     10622
+ :final-checks                   37
+ :max-memory                     2.92
+ :memory                         2.90
+ :minimized-lits                 171
+ :mk-bool-var                    1013
+ :mk-clause                      11259
+ :num-allocs                     97965
+ :num-checks                     30
+ :pb-conflicts                   70
+ :pb-predicates                  235
+ :pb-propagations                445
+ :pb-resolves                    47
+ :propagations                   34563
+ :rlimit-count                   219353)
+
+Type instance number (1–40): 5
+Finished in 168msec
+(:added-eqs                      48773
+ :arith-eq-adapter               1650
+ :arith-bound-propagations-cheap 31910
+ :arith-bound-propagations-lp    4812
+ :arith-cheap-eqs                4911
+ :arith-conflicts                69
+ :arith-diseq                    904
+ :arith-lower                    25189
+ :arith-make-feasible            4762
+ :arith-max-columns              78
+ :arith-max-rows                 58
+ :arith-propagations             31910
+ :arith-upper                    18807
+ :binary-propagations            53472
+ :conflicts                      670
+ :decisions                      9213
+ :del-clause                     34221
+ :final-checks                   73
+ :max-memory                     4.68
+ :memory                         4.65
+ :minimized-lits                 1558
+ :mk-bool-var                    1713
+ :mk-clause                      35441
+ :num-allocs                     241925
+ :num-checks                     58
+ :pb-conflicts                   373
+ :pb-predicates                  415
+ :pb-propagations                2070
+ :pb-resolves                    304
+ :propagations                   129307
+ :restarts                       3
+ :rlimit-count                   620221)
+
+Type instance number (1–40): 6
+Finished in 224msec
+(:added-eqs                      65568
+ :arith-eq-adapter               1651
+ :arith-bound-propagations-cheap 43555
+ :arith-bound-propagations-lp    4927
+ :arith-cheap-eqs                5930
+ :arith-conflicts                77
+ :arith-diseq                    1587
+ :arith-lower                    31960
+ :arith-make-feasible            6392
+ :arith-max-columns              93
+ :arith-max-rows                 70
+ :arith-propagations             43555
+ :arith-upper                    28291
+ :binary-propagations            73505
+ :conflicts                      786
+ :decisions                      13337
+ :del-clause                     45598
+ :final-checks                   73
+ :max-memory                     5.73
+ :memory                         5.71
+ :minimized-lits                 1855
+ :mk-bool-var                    1974
+ :mk-clause                      46950
+ :num-allocs                     313881
+ :num-checks                     59
+ :pb-conflicts                   453
+ :pb-predicates                  489
+ :pb-propagations                2443
+ :pb-resolves                    353
+ :propagations                   176533
+ :restarts                       4
+ :rlimit-count                   858431)
+
+Type instance number (1–40): 7
+Finished in 268msec
+(:added-eqs                      77251
+ :arith-eq-adapter               930
+ :arith-bound-propagations-cheap 43702
+ :arith-bound-propagations-lp    5159
+ :arith-cheap-eqs                8055
+ :arith-conflicts                98
+ :arith-diseq                    1618
+ :arith-lower                    32378
+ :arith-make-feasible            5942
+ :arith-max-columns              93
+ :arith-max-rows                 70
+ :arith-propagations             43702
+ :arith-upper                    31498
+ :binary-propagations            88110
+ :conflicts                      1224
+ :decisions                      11810
+ :del-clause                     46136
+ :final-checks                   61
+ :max-memory                     5.96
+ :memory                         5.94
+ :minimized-lits                 4028
+ :mk-bool-var                    2301
+ :mk-clause                      47715
+ :num-allocs                     320010
+ :num-checks                     50
+ :pb-conflicts                   637
+ :pb-predicates                  579
+ :pb-propagations                2899
+ :pb-resolves                    535
+ :propagations                   220894
+ :restarts                       8
+ :rlimit-count                   928116)
+
+Type instance number (1–40): 8
+Finished in 342msec
+(:added-eqs                      104019
+ :arith-eq-adapter               1379
+ :arith-bound-propagations-cheap 74757
+ :arith-bound-propagations-lp    5954
+ :arith-cheap-eqs                5687
+ :arith-conflicts                101
+ :arith-diseq                    1300
+ :arith-lower                    48903
+ :arith-make-feasible            7732
+ :arith-max-columns              95
+ :arith-max-rows                 71
+ :arith-propagations             74757
+ :arith-upper                    45371
+ :binary-propagations            127018
+ :conflicts                      834
+ :decisions                      17285
+ :del-clause                     78238
+ :final-checks                   65
+ :max-memory                     8.90
+ :memory                         8.87
+ :minimized-lits                 2931
+ :mk-bool-var                    3162
+ :mk-clause                      80431
+ :num-allocs                     411315
+ :num-checks                     52
+ :pb-conflicts                   527
+ :pb-predicates                  809
+ :pb-propagations                2494
+ :pb-resolves                    440
+ :propagations                   273365
+ :restarts                       5
+ :rlimit-count                   1204579)
+
+Type instance number (1–40): 9
+Finished in 506msec
+(:added-eqs                      147679
+ :arith-eq-adapter               1422
+ :arith-bound-propagations-cheap 92037
+ :arith-bound-propagations-lp    7634
+ :arith-cheap-eqs                11601
+ :arith-conflicts                116
+ :arith-diseq                    2746
+ :arith-lower                    70342
+ :arith-make-feasible            9892
+ :arith-max-columns              108
+ :arith-max-rows                 83
+ :arith-propagations             92037
+ :arith-upper                    55562
+ :binary-propagations            165808
+ :conflicts                      1784
+ :decisions                      20587
+ :del-clause                     93828
+ :final-checks                   69
+ :max-memory                     9.62
+ :memory                         9.60
+ :minimized-lits                 8743
+ :mk-bool-var                    3181
+ :mk-clause                      96018
+ :num-allocs                     539534
+ :num-checks                     55
+ :pb-conflicts                   982
+ :pb-predicates                  803
+ :pb-propagations                5287
+ :pb-resolves                    848
+ :propagations                   424497
+ :restarts                       13
+ :rlimit-count                   1680581)
+
+Type instance number (1–40): 10
+Finished in 1s 18msec
+(:added-eqs                      255368
+ :arith-eq-adapter               2602
+ :arith-bound-propagations-cheap 149896
+ :arith-bound-propagations-lp    16536
+ :arith-cheap-eqs                27296
+ :arith-conflicts                325
+ :arith-diseq                    4285
+ :arith-lower                    110331
+ :arith-make-feasible            22199
+ :arith-max-columns              140
+ :arith-max-rows                 112
+ :arith-propagations             149896
+ :arith-upper                    125415
+ :binary-propagations            296366
+ :conflicts                      2171
+ :decisions                      45272
+ :del-clause                     158307
+ :final-checks                   101
+ :max-memory                     13.46
+ :memory                         13.43
+ :minimized-lits                 8960
+ :mk-bool-var                    4125
+ :mk-clause                      161126
+ :num-allocs                     953365
+ :num-checks                     80
+ :pb-conflicts                   1309
+ :pb-predicates                  1042
+ :pb-propagations                8444
+ :pb-resolves                    968
+ :propagations                   696099
+ :restarts                       12
+ :rlimit-count                   3158586)
+
+Type instance number (1–40): 11
+Finished in 24s 38msec
+(:added-eqs                      1939164
+ :arith-eq-adapter               128
+ :arith-bound-propagations-cheap 658157
+ :arith-bound-propagations-lp    51711
+ :arith-cheap-eqs                168272
+ :arith-conflicts                1983
+ :arith-diseq                    54406
+ :arith-lower                    974955
+ :arith-make-feasible            123107
+ :arith-max-columns              220
+ :arith-max-rows                 182
+ :arith-propagations             658157
+ :arith-upper                    1059516
+ :binary-propagations            2839223
+ :conflicts                      40918
+ :decisions                      195110
+ :del-clause                     630564
+ :final-checks                   97
+ :max-memory                     43.20
+ :memory                         43.17
+ :minimized-lits                 274975
+ :mk-bool-var                    6645
+ :mk-clause                      637798
+ :num-allocs                     4792634
+ :num-checks                     76
+ :pb-conflicts                   9954
+ :pb-predicates                  1685
+ :pb-propagations                156869
+ :pb-resolves                    3182
+ :propagations                   10527464
+ :restarts                       257
+ :rlimit-count                   29079077)
+
+Type instance number (1–40): 12
+Finished in 2s 621msec
+(:added-eqs                      635349
+ :arith-eq-adapter               52
+ :arith-bound-propagations-cheap 343418
+ :arith-bound-propagations-lp    34826
+ :arith-cheap-eqs                42424
+ :arith-conflicts                767
+ :arith-diseq                    8714
+ :arith-lower                    224852
+ :arith-make-feasible            40508
+ :arith-max-columns              161
+ :arith-max-rows                 129
+ :arith-propagations             343418
+ :arith-upper                    334950
+ :binary-propagations            759916
+ :conflicts                      5541
+ :decisions                      84981
+ :del-clause                     337159
+ :final-checks                   97
+ :max-memory                     26.58
+ :memory                         26.51
+ :minimized-lits                 31586
+ :mk-bool-var                    6916
+ :mk-clause                      343110
+ :num-allocs                     1740382
+ :num-checks                     77
+ :pb-conflicts                   3097
+ :pb-predicates                  1778
+ :pb-propagations                21673
+ :pb-resolves                    2229
+ :propagations                   1801356
+ :restarts                       44
+ :rlimit-count                   6985972)
+
+Type instance number (1–40): 13
+Finished in 3s 15msec
+(:added-eqs                      748703
+ :arith-eq-adapter               553
+ :arith-bound-propagations-cheap 384975
+ :arith-bound-propagations-lp    33932
+ :arith-cheap-eqs                50542
+ :arith-conflicts                878
+ :arith-diseq                    10166
+ :arith-lower                    231511
+ :arith-make-feasible            45403
+ :arith-max-columns              177
+ :arith-max-rows                 145
+ :arith-propagations             384975
+ :arith-upper                    411009
+ :binary-propagations            899827
+ :conflicts                      7443
+ :decisions                      100710
+ :del-clause                     347249
+ :final-checks                   117
+ :max-memory                     27.26
+ :memory                         27.24
+ :minimized-lits                 49869
+ :mk-bool-var                    7298
+ :mk-clause                      354388
+ :num-allocs                     1972057
+ :num-checks                     93
+ :pb-conflicts                   3452
+ :pb-predicates                  1862
+ :pb-propagations                23669
+ :pb-resolves                    3026
+ :propagations                   2119430
+ :restarts                       58
+ :rlimit-count                   8146258)
+
+Type instance number (1–40): 14
+Finished in 3s 782msec
+(:added-eqs                      772667
+ :arith-eq-adapter               934
+ :arith-bound-propagations-cheap 358343
+ :arith-bound-propagations-lp    25470
+ :arith-cheap-eqs                112302
+ :arith-conflicts                219
+ :arith-diseq                    12239
+ :arith-lower                    357582
+ :arith-make-feasible            42158
+ :arith-max-columns              197
+ :arith-max-rows                 163
+ :arith-propagations             358343
+ :arith-upper                    279187
+ :binary-propagations            827631
+ :conflicts                      8415
+ :decisions                      92753
+ :del-clause                     364573
+ :final-checks                   81
+ :max-memory                     27.73
+ :memory                         27.70
+ :minimized-lits                 57565
+ :mk-bool-var                    8229
+ :mk-clause                      370481
+ :num-allocs                     2774113
+ :num-checks                     65
+ :pb-conflicts                   4896
+ :pb-predicates                  2100
+ :pb-propagations                31697
+ :pb-resolves                    3312
+ :propagations                   2255557
+ :restarts                       64
+ :rlimit-count                   8681062)
+
+Type instance number (1–40): 15
+Finished in 7s 542msec
+(:added-eqs                      1382285
+ :arith-eq-adapter               60
+ :arith-bound-propagations-cheap 770291
+ :arith-bound-propagations-lp    51952
+ :arith-cheap-eqs                91510
+ :arith-conflicts                1081
+ :arith-diseq                    15349
+ :arith-lower                    515159
+ :arith-make-feasible            74802
+ :arith-max-columns              200
+ :arith-max-rows                 164
+ :arith-propagations             770291
+ :arith-upper                    748609
+ :binary-propagations            1760627
+ :conflicts                      9028
+ :decisions                      163283
+ :del-clause                     702378
+ :final-checks                   113
+ :max-memory                     48.83
+ :memory                         48.77
+ :minimized-lits                 66933
+ :mk-bool-var                    10284
+ :mk-clause                      711279
+ :num-allocs                     3487481
+ :num-checks                     88
+ :pb-conflicts                   5006
+ :pb-predicates                  2640
+ :pb-propagations                33371
+ :pb-resolves                    3532
+ :propagations                   3950789
+ :restarts                       69
+ :rlimit-count                   14591076)
+
+Type instance number (1–40): 16
+Finished in 5m 0s
+(:added-eqs                      10099928
+ :arith-eq-adapter               253
+ :arith-bound-propagations-cheap 2860532
+ :arith-bound-propagations-lp    108259
+ :arith-cheap-eqs                1365312
+ :arith-conflicts                3593
+ :arith-diseq                    204723
+ :arith-lower                    4871684
+ :arith-make-feasible            448846
+ :arith-max-columns              287
+ :arith-max-rows                 245
+ :arith-propagations             2860532
+ :arith-upper                    4986782
+ :binary-propagations            14628235
+ :conflicts                      196197
+ :decisions                      577847
+ :del-clause                     2742224
+ :final-checks                   125
+ :max-memory                     121.82
+ :memory                         121.79
+ :minimized-lits                 2290802
+ :mk-bool-var                    13068
+ :mk-clause                      2752631
+ :num-allocs                     24103205
+ :num-checks                     98
+ :pb-conflicts                   48786
+ :pb-predicates                  3344
+ :pb-propagations                1298994
+ :pb-resolves                    8093
+ :propagations                   59578533
+ :restarts                       914
+ :rlimit-count                   147783755)
+canceled
+
+Type instance number (1–40): 17
+Finished in 18s 47msec
+(:added-eqs                      2636413
+ :arith-eq-adapter               68
+ :arith-bound-propagations-cheap 1417176
+ :arith-bound-propagations-lp    111998
+ :arith-cheap-eqs                115916
+ :arith-conflicts                2383
+ :arith-diseq                    29360
+ :arith-lower                    1123544
+ :arith-make-feasible            133610
+ :arith-max-columns              243
+ :arith-max-rows                 203
+ :arith-propagations             1417176
+ :arith-upper                    1307813
+ :binary-propagations            3269165
+ :conflicts                      14219
+ :decisions                      303999
+ :del-clause                     1312041
+ :final-checks                   141
+ :max-memory                     87.48
+ :memory                         87.41
+ :minimized-lits                 120051
+ :mk-bool-var                    12976
+ :mk-clause                      1324648
+ :num-allocs                     5827688
+ :num-checks                     110
+ :pb-conflicts                   7334
+ :pb-predicates                  3330
+ :pb-propagations                41958
+ :pb-resolves                    6312
+ :propagations                   7512749
+ :restarts                       112
+ :rlimit-count                   28165718)
+
+Type instance number (1–40): 18
+Finished in 57s 712msec
+(:added-eqs                      4242913
+ :arith-eq-adapter               72
+ :arith-bound-propagations-cheap 2282238
+ :arith-bound-propagations-lp    112194
+ :arith-cheap-eqs                512844
+ :arith-conflicts                1657
+ :arith-diseq                    52423
+ :arith-lower                    1434374
+ :arith-make-feasible            167712
+ :arith-max-columns              266
+ :arith-max-rows                 224
+ :arith-propagations             2282238
+ :arith-upper                    2295521
+ :binary-propagations            4906838
+ :conflicts                      38666
+ :decisions                      344517
+ :del-clause                     2104011
+ :final-checks                   129
+ :max-memory                     128.57
+ :memory                         128.50
+ :minimized-lits                 368901
+ :mk-bool-var                    15916
+ :mk-clause                      2117769
+ :num-allocs                     11790943
+ :num-checks                     100
+ :pb-conflicts                   19595
+ :pb-predicates                  4085
+ :pb-propagations                251973
+ :pb-resolves                    8607
+ :propagations                   14160983
+ :restarts                       235
+ :rlimit-count                   46016964)
+
+Type instance number (1–40): 19
+Finished in 5m 0s
+(:added-eqs                      12993884
+ :arith-eq-adapter               431
+ :arith-bound-propagations-cheap 4622684
+ :arith-bound-propagations-lp    209508
+ :arith-cheap-eqs                2104420
+ :arith-conflicts                6687
+ :arith-diseq                    186857
+ :arith-lower                    5527046
+ :arith-make-feasible            533713
+ :arith-max-columns              367
+ :arith-max-rows                 317
+ :arith-propagations             4622684
+ :arith-upper                    6816715
+ :binary-propagations            14795369
+ :conflicts                      118323
+ :decisions                      907378
+ :del-clause                     4397048
+ :final-checks                   125
+ :max-memory                     254.69
+ :memory                         254.63
+ :minimized-lits                 1333764
+ :mk-bool-var                    19715
+ :mk-clause                      4414015
+ :num-allocs                     35534456
+ :num-checks                     97
+ :pb-conflicts                   56722
+ :pb-predicates                  5043
+ :pb-propagations                1090905
+ :pb-resolves                    12878
+ :propagations                   48741635
+ :restarts                       682
+ :rlimit-count                   159328518)
+canceled
+
+Type instance number (1–40): 20
+Finished in 1m 16s
+(:added-eqs                      6512127
+ :arith-eq-adapter               129
+ :arith-bound-propagations-cheap 3265455
+ :arith-bound-propagations-lp    194843
+ :arith-cheap-eqs                796305
+ :arith-conflicts                3982
+ :arith-diseq                    81936
+ :arith-lower                    2618409
+ :arith-make-feasible            273761
+ :arith-max-columns              340
+ :arith-max-rows                 292
+ :arith-propagations             3265455
+ :arith-upper                    3478811
+ :binary-propagations            7663916
+ :conflicts                      37671
+ :decisions                      576383
+ :del-clause                     2935690
+ :final-checks                   129
+ :max-memory                     180.63
+ :memory                         180.59
+ :minimized-lits                 386714
+ :mk-bool-var                    19393
+ :mk-clause                      2959781
+ :num-allocs                     17146339
+ :num-checks                     100
+ :pb-conflicts                   18706
+ :pb-predicates                  4961
+ :pb-propagations                249015
+ :pb-resolves                    10016
+ :propagations                   20381599
+ :restarts                       270
+ :rlimit-count                   71575033)
+
+Type instance number (1–40): 21
+Finished in 4m 16s
+(:added-eqs                      12376604
+ :arith-eq-adapter               116
+ :arith-bound-propagations-cheap 5331589
+ :arith-bound-propagations-lp    239325
+ :arith-cheap-eqs                1855788
+ :arith-conflicts                5066
+ :arith-diseq                    146602
+ :arith-lower                    5150890
+ :arith-make-feasible            479274
+ :arith-max-columns              366
+ :arith-max-rows                 317
+ :arith-propagations             5331589
+ :arith-upper                    6081140
+ :binary-propagations            14659728
+ :conflicts                      100272
+ :decisions                      940812
+ :del-clause                     4795375
+ :final-checks                   129
+ :max-memory                     249.39
+ :memory                         249.33
+ :minimized-lits                 1038442
+ :mk-bool-var                    21085
+ :mk-clause                      4823680
+ :num-allocs                     34333656
+ :num-checks                     101
+ :pb-conflicts                   42750
+ :pb-predicates                  5394
+ :pb-propagations                716672
+ :pb-resolves                    17481
+ :propagations                   44074381
+ :restarts                       638
+ :rlimit-count                   141221930)
+
+Type instance number (1–40): 22
+Finished in 5m 0s
+(:added-eqs                      13230858
+ :arith-eq-adapter               248
+ :arith-bound-propagations-cheap 5711596
+ :arith-bound-propagations-lp    280000
+ :arith-cheap-eqs                1400306
+ :arith-conflicts                6580
+ :arith-diseq                    180438
+ :arith-lower                    5794403
+ :arith-make-feasible            542859
+ :arith-max-columns              425
+ :arith-max-rows                 370
+ :arith-propagations             5711596
+ :arith-upper                    6812483
+ :binary-propagations            16225068
+ :conflicts                      89295
+ :decisions                      1086917
+ :del-clause                     5074338
+ :final-checks                   117
+ :max-memory                     295.48
+ :memory                         295.38
+ :minimized-lits                 1089813
+ :mk-bool-var                    23928
+ :mk-clause                      5106216
+ :num-allocs                     32285861
+ :num-checks                     90
+ :pb-conflicts                   39452
+ :pb-predicates                  6126
+ :pb-propagations                1087956
+ :pb-resolves                    17593
+ :propagations                   46337465
+ :restarts                       506
+ :rlimit-count                   158629448)
+canceled
+
+Type instance number (1–40): 23
+Finished in 1m 46s
+(:added-eqs                      6870947
+ :arith-eq-adapter               76
+ :arith-bound-propagations-cheap 2842257
+ :arith-bound-propagations-lp    143678
+ :arith-cheap-eqs                966417
+ :arith-conflicts                1409
+ :arith-diseq                    83625
+ :arith-lower                    2634191
+ :arith-make-feasible            289445
+ :arith-max-columns              290
+ :arith-max-rows                 246
+ :arith-propagations             2842257
+ :arith-upper                    3337593
+ :binary-propagations            7573127
+ :conflicts                      60593
+ :decisions                      568301
+ :del-clause                     2619888
+ :final-checks                   105
+ :max-memory                     162.86
+ :memory                         162.65
+ :minimized-lits                 645120
+ :mk-bool-var                    17905
+ :mk-clause                      2637210
+ :num-allocs                     21353025
+ :num-checks                     82
+ :pb-conflicts                   33607
+ :pb-predicates                  4580
+ :pb-propagations                382380
+ :pb-resolves                    10717
+ :propagations                   22961513
+ :restarts                       341
+ :rlimit-count                   76850165)
+
+Type instance number (1–40): 24
+Finished in 26s 390msec
+(:added-eqs                      3722874
+ :arith-eq-adapter               72
+ :arith-bound-propagations-cheap 1700895
+ :arith-bound-propagations-lp    119130
+ :arith-cheap-eqs                291191
+ :arith-conflicts                2038
+ :arith-diseq                    38027
+ :arith-lower                    1166364
+ :arith-make-feasible            174512
+ :arith-max-columns              266
+ :arith-max-rows                 224
+ :arith-propagations             1700895
+ :arith-upper                    1964589
+ :binary-propagations            4423965
+ :conflicts                      22194
+ :decisions                      360284
+ :del-clause                     1539921
+ :final-checks                   117
+ :max-memory                     101.79
+ :memory                         101.67
+ :minimized-lits                 234403
+ :mk-bool-var                    17485
+ :mk-clause                      1556161
+ :num-allocs                     9100416
+ :num-checks                     92
+ :pb-conflicts                   12377
+ :pb-predicates                  4465
+ :pb-propagations                134166
+ :pb-resolves                    8066
+ :propagations                   10475721
+ :restarts                       162
+ :rlimit-count                   38174537)
+
+Type instance number (1–40): 25
+Finished in 5m 0s
+(:added-eqs                      19158174
+ :arith-eq-adapter               315
+ :arith-bound-propagations-cheap 11722069
+ :arith-bound-propagations-lp    500860
+ :arith-cheap-eqs                498020
+ :arith-conflicts                8556
+ :arith-diseq                    131747
+ :arith-lower                    6404484
+ :arith-make-feasible            622297
+ :arith-max-columns              516
+ :arith-max-rows                 457
+ :arith-propagations             11722069
+ :arith-upper                    12163939
+ :binary-propagations            25438975
+ :conflicts                      35212
+ :decisions                      1511738
+ :del-clause                     10614674
+ :final-checks                   137
+ :max-memory                     591.21
+ :memory                         591.18
+ :minimized-lits                 441029
+ :mk-bool-var                    36535
+ :mk-clause                      10656017
+ :num-allocs                     36395941
+ :num-checks                     105
+ :pb-conflicts                   17141
+ :pb-predicates                  9346
+ :pb-propagations                115506
+ :pb-resolves                    16892
+ :propagations                   55278030
+ :restarts                       270
+ :rlimit-count                   193393228)
+canceled
+
+Type instance number (1–40): 26
+Finished in 5m 0s
+(:added-eqs                      13884079
+ :arith-eq-adapter               88
+ :arith-bound-propagations-cheap 6822800
+ :arith-bound-propagations-lp    269043
+ :arith-cheap-eqs                1335099
+ :arith-conflicts                5391
+ :arith-diseq                    116902
+ :arith-lower                    5124382
+ :arith-make-feasible            491672
+ :arith-max-columns              368
+ :arith-max-rows                 318
+ :arith-propagations             6822800
+ :arith-upper                    7485651
+ :binary-propagations            17731646
+ :conflicts                      77879
+ :decisions                      1018539
+ :del-clause                     6181188
+ :final-checks                   145
+ :max-memory                     367.94
+ :memory                         367.77
+ :minimized-lits                 1002792
+ :mk-bool-var                    28703
+ :mk-clause                      6207216
+ :num-allocs                     32890045
+ :num-checks                     112
+ :pb-conflicts                   38616
+ :pb-predicates                  7337
+ :pb-propagations                617184
+ :pb-resolves                    15071
+ :propagations                   44433064
+ :restarts                       450
+ :rlimit-count                   145798245)
+canceled
+
+Type instance number (1–40): 27
+Finished in 2m 45s
+(:added-eqs                      9350047
+ :arith-eq-adapter               80
+ :arith-bound-propagations-cheap 4853985
+ :arith-bound-propagations-lp    193931
+ :arith-cheap-eqs                983523
+ :arith-conflicts                2780
+ :arith-diseq                    86159
+ :arith-lower                    3166434
+ :arith-make-feasible            345028
+ :arith-max-columns              315
+ :arith-max-rows                 269
+ :arith-propagations             4853985
+ :arith-upper                    4679741
+ :binary-propagations            10977071
+ :conflicts                      59598
+ :decisions                      713698
+ :del-clause                     4496605
+ :final-checks                   157
+ :max-memory                     261.21
+ :memory                         261.00
+ :minimized-lits                 670243
+ :mk-bool-var                    24050
+ :mk-clause                      4519637
+ :num-allocs                     25271835
+ :num-checks                     123
+ :pb-conflicts                   31867
+ :pb-predicates                  6132
+ :pb-propagations                418796
+ :pb-resolves                    14729
+ :propagations                   28311046
+ :restarts                       387
+ :rlimit-count                   94684380)
+
+Type instance number (1–40): 28
+Finished in 2m 51s
+(:added-eqs                      10490386
+ :arith-eq-adapter               84
+ :arith-bound-propagations-cheap 5196042
+ :arith-bound-propagations-lp    227091
+ :arith-cheap-eqs                891472
+ :arith-conflicts                4361
+ :arith-diseq                    98437
+ :arith-lower                    3632528
+ :arith-make-feasible            421373
+ :arith-max-columns              341
+ :arith-max-rows                 293
+ :arith-propagations             5196042
+ :arith-upper                    5694385
+ :binary-propagations            12770692
+ :conflicts                      60364
+ :decisions                      841204
+ :del-clause                     4711001
+ :final-checks                   137
+ :max-memory                     272.92
+ :memory                         272.57
+ :minimized-lits                 773937
+ :mk-bool-var                    22950
+ :mk-clause                      4732236
+ :num-allocs                     25381009
+ :num-checks                     108
+ :pb-conflicts                   30447
+ :pb-predicates                  5852
+ :pb-propagations                403914
+ :pb-resolves                    15703
+ :propagations                   32058603
+ :restarts                       384
+ :rlimit-count                   110441766)
+
+Type instance number (1–40): 29
+Finished in 5m 0s
+(:added-eqs                      14828733
+ :arith-eq-adapter               88
+ :arith-bound-propagations-cheap 6368767
+ :arith-bound-propagations-lp    270186
+ :arith-cheap-eqs                1854927
+ :arith-conflicts                3530
+ :arith-diseq                    142562
+ :arith-lower                    5525060
+ :arith-make-feasible            585631
+ :arith-max-columns              368
+ :arith-max-rows                 318
+ :arith-propagations             6368767
+ :arith-upper                    7067476
+ :binary-propagations            16784947
+ :conflicts                      95750
+ :decisions                      1185463
+ :del-clause                     5764023
+ :final-checks                   121
+ :max-memory                     342.15
+ :memory                         341.90
+ :minimized-lits                 1189334
+ :mk-bool-var                    27948
+ :mk-clause                      5789545
+ :num-allocs                     42265595
+ :num-checks                     93
+ :pb-conflicts                   51191
+ :pb-predicates                  7130
+ :pb-propagations                571689
+ :pb-resolves                    27653
+ :propagations                   44275787
+ :restarts                       520
+ :rlimit-count                   155531133)
+canceled
+
+Type instance number (1–40): 30
+Finished in 5m 0s
+(:added-eqs                      18639893
+ :arith-eq-adapter               104
+ :arith-bound-propagations-cheap 10565861
+ :arith-bound-propagations-lp    445521
+ :arith-cheap-eqs                953671
+ :arith-conflicts                5654
+ :arith-diseq                    126598
+ :arith-lower                    6115029
+ :arith-make-feasible            594741
+ :arith-max-columns              486
+ :arith-max-rows                 428
+ :arith-propagations             10565861
+ :arith-upper                    11243337
+ :binary-propagations            23819044
+ :conflicts                      45888
+ :decisions                      1497618
+ :del-clause                     2466671
+ :final-checks                   112
+ :max-memory                     544.46
+ :memory                         544.38
+ :minimized-lits                 713991
+ :mk-bool-var                    33976
+ :mk-clause                      9474074
+ :num-allocs                     40276969
+ :num-checks                     86
+ :pb-conflicts                   24372
+ :pb-predicates                  8694
+ :pb-propagations                221807
+ :pb-resolves                    22672
+ :propagations                   53162979
+ :restarts                       288
+ :rlimit-count                   187414248)
+unknown
+
+Type instance number (1–40): 31
+Finished in 21s 175msec
+(:added-eqs                      3554797
+ :arith-eq-adapter               72
+ :arith-bound-propagations-cheap 1697762
+ :arith-bound-propagations-lp    120347
+ :arith-cheap-eqs                109946
+ :arith-conflicts                3047
+ :arith-diseq                    30324
+ :arith-lower                    1266223
+ :arith-make-feasible            151093
+ :arith-max-columns              266
+ :arith-max-rows                 224
+ :arith-propagations             1697762
+ :arith-upper                    1718886
+ :binary-propagations            4496998
+ :conflicts                      12613
+ :decisions                      322731
+ :del-clause                     1514150
+ :final-checks                   129
+ :max-memory                     98.62
+ :memory                         98.54
+ :minimized-lits                 163703
+ :mk-bool-var                    15609
+ :mk-clause                      1530410
+ :num-allocs                     6903519
+ :num-checks                     101
+ :pb-conflicts                   6018
+ :pb-predicates                  3952
+ :pb-propagations                84904
+ :pb-resolves                    4940
+ :propagations                   9443614
+ :restarts                       101
+ :rlimit-count                   34359867)
+
+Type instance number (1–40): 32
+ Finished in 5m 0s
+(:added-eqs                      22682229
+ :arith-eq-adapter               112
+ :arith-bound-propagations-cheap 12968210
+ :arith-bound-propagations-lp    497518
+ :arith-cheap-eqs                261291
+ :arith-conflicts                8771
+ :arith-diseq                    137261
+ :arith-lower                    7361635
+ :arith-make-feasible            652507
+ :arith-max-columns              551
+ :arith-max-rows                 489
+ :arith-propagations             12968210
+ :arith-upper                    14601869
+ :binary-propagations            30562790
+ :conflicts                      28622
+ :decisions                      1720062
+ :del-clause                     9199460
+ :final-checks                   109
+ :max-memory                     565.01
+ :memory                         564.98
+ :minimized-lits                 437266
+ :mk-bool-var                    34076
+ :mk-clause                      9292430
+ :num-allocs                     36558600
+ :num-checks                     84
+ :pb-conflicts                   14069
+ :pb-predicates                  8729
+ :pb-propagations                127436
+ :pb-resolves                    14068
+ :propagations                   64367464
+ :restarts                       227
+ :rlimit-count                   221564691)
+canceled
+
+Type instance number (1–40): 33
+Finished in 1m 1s
+(:added-eqs                      6748929
+ :arith-eq-adapter               76
+ :arith-bound-propagations-cheap 2686915
+ :arith-bound-propagations-lp    156137
+ :arith-cheap-eqs                237191
+ :arith-conflicts                4269
+ :arith-diseq                    55910
+ :arith-lower                    2163451
+ :arith-make-feasible            250763
+ :arith-max-columns              290
+ :arith-max-rows                 246
+ :arith-propagations             2686915
+ :arith-upper                    3315720
+ :binary-propagations            8402450
+ :conflicts                      35299
+ :decisions                      540716
+ :del-clause                     2486354
+ :final-checks                   121
+ :max-memory                     151.86
+ :memory                         151.63
+ :minimized-lits                 493520
+ :mk-bool-var                    20418
+ :mk-clause                      2508200
+ :num-allocs                     11633091
+ :num-checks                     95
+ :pb-conflicts                   14610
+ :pb-predicates                  5179
+ :pb-propagations                237624
+ :pb-resolves                    11125
+ :propagations                   19186126
+ :restarts                       246
+ :rlimit-count                   65047523)
+
+Type instance number (1–40): 34
+Finished in 5m 0s
+(:added-eqs                      12255276
+ :arith-eq-adapter               1065
+ :arith-bound-propagations-cheap 6350634
+ :arith-bound-propagations-lp    368045
+ :arith-cheap-eqs                805825
+ :arith-conflicts                8825
+ :arith-diseq                    211120
+ :arith-lower                    5585496
+ :arith-make-feasible            584172
+ :arith-max-columns              464
+ :arith-max-rows                 398
+ :arith-propagations             6350634
+ :arith-upper                    7392676
+ :binary-propagations            15519298
+ :conflicts                      90307
+ :decisions                      999194
+ :del-clause                     5859117
+ :final-checks                   113
+ :max-memory                     341.98
+ :memory                         341.71
+ :minimized-lits                 777648
+ :mk-bool-var                    21441
+ :mk-clause                      5879879
+ :num-allocs                     30555658
+ :num-checks                     87
+ :pb-conflicts                   29533
+ :pb-predicates                  5540
+ :pb-propagations                1154568
+ :pb-resolves                    11863
+ :propagations                   44715944
+ :restarts                       480
+ :rlimit-count                   156736494)
+canceled
+
+Type instance number (1–40): 35
+Finished in 5m 0s
+(:added-eqs                      10995857
+ :arith-eq-adapter               173
+ :arith-bound-propagations-cheap 6159887
+ :arith-bound-propagations-lp    321034
+ :arith-cheap-eqs                803523
+ :arith-conflicts                8015
+ :arith-diseq                    151319
+ :arith-lower                    4879623
+ :arith-make-feasible            495718
+ :arith-max-columns              458
+ :arith-max-rows                 398
+ :arith-propagations             6159887
+ :arith-upper                    6913305
+ :binary-propagations            14681763
+ :conflicts                      83667
+ :decisions                      908654
+ :del-clause                     5577717
+ :final-checks                   109
+ :max-memory                     327.31
+ :memory                         327.14
+ :minimized-lits                 679424
+ :mk-bool-var                    19530
+ :mk-clause                      5597755
+ :num-allocs                     28483155
+ :num-checks                     84
+ :pb-conflicts                   16538
+ :pb-predicates                  5080
+ :pb-propagations                801128
+ :pb-resolves                    12439
+ :propagations                   41447358
+ :restarts                       448
+ :rlimit-count                   139603609)
+canceled
+
+Type instance number (1–40): 36
+Finished in 5m 0s
+(:added-eqs                      7830047
+ :arith-eq-adapter               426
+ :arith-bound-propagations-cheap 5374459
+ :arith-bound-propagations-lp    192795
+ :arith-cheap-eqs                345755
+ :arith-conflicts                1068
+ :arith-diseq                    125656
+ :arith-lower                    3257901
+ :arith-make-feasible            239133
+ :arith-max-columns              463
+ :arith-max-rows                 398
+ :arith-propagations             5374459
+ :arith-upper                    5109709
+ :binary-propagations            11655956
+ :conflicts                      61480
+ :decisions                      410429
+ :del-clause                     4691216
+ :final-checks                   85
+ :max-memory                     269.17
+ :memory                         269.12
+ :minimized-lits                 855073
+ :mk-bool-var                    20848
+ :mk-clause                      4714847
+ :num-allocs                     20242866
+ :num-checks                     65
+ :pb-conflicts                   15922
+ :pb-predicates                  5360
+ :pb-propagations                1150713
+ :pb-resolves                    2330
+ :propagations                   35080604
+ :restarts                       288
+ :rlimit-count                   101754437)
+canceled
+
+Type instance number (1–40): 37
+Finished in 5m 0s
+(:added-eqs                      19284537
+ :arith-eq-adapter               636
+ :arith-bound-propagations-cheap 12998424
+ :arith-bound-propagations-lp    784463
+ :arith-cheap-eqs                383799
+ :arith-conflicts                7214
+ :arith-diseq                    166181
+ :arith-lower                    7064465
+ :arith-make-feasible            591868
+ :arith-max-columns              566
+ :arith-max-rows                 488
+ :arith-propagations             12998424
+ :arith-upper                    12391443
+ :binary-propagations            26158290
+ :conflicts                      27773
+ :decisions                      1319247
+ :del-clause                     10493101
+ :final-checks                   101
+ :max-memory                     607.81
+ :memory                         607.77
+ :minimized-lits                 272777
+ :mk-bool-var                    36980
+ :mk-clause                      10590484
+ :num-allocs                     39400346
+ :num-checks                     78
+ :pb-conflicts                   13358
+ :pb-predicates                  9423
+ :pb-propagations                158851
+ :pb-resolves                    12970
+ :propagations                   56444948
+ :restarts                       197
+ :rlimit-count                   193656304)
+canceled
+
+Type instance number (1–40): 38
+Finished in 5m 0s
+(:added-eqs                      19496017
+ :arith-eq-adapter               1252
+ :arith-bound-propagations-cheap 10652102
+ :arith-bound-propagations-lp    671044
+ :arith-cheap-eqs                498868
+ :arith-conflicts                11113
+ :arith-diseq                    194526
+ :arith-lower                    8125502
+ :arith-make-feasible            663739
+ :arith-max-columns              598
+ :arith-max-rows                 520
+ :arith-propagations             10652102
+ :arith-upper                    11232534
+ :binary-propagations            27106743
+ :conflicts                      46673
+ :decisions                      1407479
+ :del-clause                     9567155
+ :final-checks                   85
+ :max-memory                     556.15
+ :memory                         555.90
+ :minimized-lits                 363510
+ :mk-bool-var                    36668
+ :mk-clause                      9602211
+ :num-allocs                     34999219
+ :num-checks                     65
+ :pb-conflicts                   16219
+ :pb-predicates                  9210
+ :pb-propagations                373222
+ :pb-resolves                    14367
+ :propagations                   57970335
+ :restarts                       283
+ :rlimit-count                   204789343)
+canceled
+
+Type instance number (1–40): 39
+Finished in 5m 0s
+(:added-eqs                      16895973
+ :arith-eq-adapter               1180
+ :arith-bound-propagations-cheap 11615462
+ :arith-bound-propagations-lp    868479
+ :arith-cheap-eqs                491216
+ :arith-conflicts                7377
+ :arith-diseq                    163349
+ :arith-lower                    5756926
+ :arith-make-feasible            573481
+ :arith-max-columns              565
+ :arith-max-rows                 488
+ :arith-propagations             11615462
+ :arith-upper                    10848514
+ :binary-propagations            22255814
+ :conflicts                      38474
+ :decisions                      1195066
+ :del-clause                     10847713
+ :final-checks                   117
+ :max-memory                     608.02
+ :memory                         607.92
+ :minimized-lits                 342095
+ :mk-bool-var                    36268
+ :mk-clause                      10886475
+ :num-allocs                     37868485
+ :num-checks                     90
+ :pb-conflicts                   16903
+ :pb-predicates                  9087
+ :pb-propagations                309506
+ :pb-resolves                    15391
+ :propagations                   49611271
+ :restarts                       277
+ :rlimit-count                   176258212)
+canceled
+
+Type instance number (1–40): 40
+Finished in 5m 0s
+(:added-eqs                      39901137
+ :arith-eq-adapter               792
+ :arith-bound-propagations-cheap 38522837
+ :arith-bound-propagations-lp    995078
+ :arith-cheap-eqs                47922
+ :arith-conflicts                582
+ :arith-diseq                    59617
+ :arith-lower                    9859669
+ :arith-make-feasible            447505
+ :arith-max-columns              3102
+ :arith-max-rows                 2917
+ :arith-propagations             38522837
+ :arith-upper                    31763221
+ :binary-propagations            58999186
+ :conflicts                      3051
+ :decisions                      1352834
+ :del-clause                     78052
+ :max-memory                     734.98
+ :memory                         734.92
+ :minimized-lits                 79702
+ :mk-bool-var                    169849
+ :mk-clause                      912956
+ :num-allocs                     96047405
+ :num-checks                     1
+ :pb-conflicts                   1935
+ :pb-predicates                  43920
+ :pb-propagations                80757
+ :pb-resolves                    1885
+ :propagations                   117227981
+ :restarts                       25
+ :rlimit-count                   404095973)
+canceled
