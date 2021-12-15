@@ -1,0 +1,164 @@
+Running rotation.mzn with ins-1.dzn
+8 8
+4
+3 3 0 0
+5 3 3 0
+3 5 0 3
+5 5 3 3
+----------
+==========
+%%%mzn-stat: initTime=0.018699
+%%%mzn-stat: solveTime=0.024541
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=188
+%%%mzn-stat: propagators=219
+%%%mzn-stat: propagations=223218
+%%%mzn-stat: nodes=4264
+%%%mzn-stat: failures=2131
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=17
+%%%mzn-stat-end
+Finished in 243msec
+Running rotation.mzn with ins-2.dzn
+9 9
+5
+3 3 0 0
+3 4 3 0
+3 5 3 4
+3 6 0 3
+3 9 6 0
+----------
+==========
+%%%mzn-stat: initTime=0.009285
+%%%mzn-stat: solveTime=0.862305
+%%%mzn-stat: solutions=4
+%%%mzn-stat: variables=1084
+%%%mzn-stat: propagators=1540
+%%%mzn-stat: propagations=12888896
+%%%mzn-stat: nodes=50803
+%%%mzn-stat: failures=25398
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=26
+%%%mzn-stat-end
+Finished in 1s 138msec
+Running rotation.mzn with ins-3.dzn
+10 10
+6
+3 3 0 0
+4 3 3 0
+3 6 7 0
+7 3 0 3
+4 4 0 6
+6 4 4 6
+----------
+==========
+%%%mzn-stat: initTime=0.014348
+%%%mzn-stat: solveTime=255.892
+%%%mzn-stat: solutions=3
+%%%mzn-stat: variables=1826
+%%%mzn-stat: propagators=2440
+%%%mzn-stat: propagations=3161192140
+%%%mzn-stat: nodes=9866051
+%%%mzn-stat: failures=4933023
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=33
+%%%mzn-stat-end
+Finished in 4m 16s
+Running rotation.mzn with ins-4.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.028178
+%%%mzn-stat: solveTime=299.398
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=3091
+%%%mzn-stat: propagators=5602
+%%%mzn-stat: propagations=6568438422
+%%%mzn-stat: nodes=6284345
+%%%mzn-stat: failures=3142166
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=44
+%%%mzn-stat-end
+Finished in 5m 0s
+Running rotation.mzn with ins-5.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.055839
+%%%mzn-stat: solveTime=298.995
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=5680
+%%%mzn-stat: propagators=10392
+%%%mzn-stat: propagations=4799553721
+%%%mzn-stat: nodes=2482049
+%%%mzn-stat: failures=1241017
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=40
+%%%mzn-stat-end
+Finished in 5m 0s
+Running rotation.mzn with ins-6.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.075833
+%%%mzn-stat: solveTime=298.581
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=8099
+%%%mzn-stat: propagators=13560
+%%%mzn-stat: propagations=3886337926
+%%%mzn-stat: nodes=1733827
+%%%mzn-stat: failures=866906
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=56
+%%%mzn-stat-end
+Finished in 5m 0s
+Running rotation.mzn with ins-7.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.11209
+%%%mzn-stat: solveTime=298.181
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=11758
+%%%mzn-stat: propagators=19828
+%%%mzn-stat: propagations=4409587560
+%%%mzn-stat: nodes=1140624
+%%%mzn-stat: failures=570304
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=43
+%%%mzn-stat-end
+Finished in 5m 0s
+Running rotation.mzn with ins-8.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.158326
+%%%mzn-stat: solveTime=297.474
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=14869
+%%%mzn-stat: propagators=27760
+%%%mzn-stat: propagations=2265083056
+%%%mzn-stat: nodes=578468
+%%%mzn-stat: failures=289225
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=40
+%%%mzn-stat-end
+Finished in 5m 0s
+Running rotation.mzn with ins-9.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.171395
+%%%mzn-stat: solveTime=296.966
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=18109
+%%%mzn-stat: propagators=31072
+%%%mzn-stat: propagations=4681736507
+%%%mzn-stat: nodes=742999
+%%%mzn-stat: failures=371490
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=48
+%%%mzn-stat-end
+Finished in 5m 0s
+Running rotation.mzn with ins-10.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.304789
+%%%mzn-stat: solveTime=294.883
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=26278
+%%%mzn-stat: propagators=55323
+%%%mzn-stat: propagations=3698784199
+%%%mzn-stat: nodes=327189
+%%%mzn-stat: failures=163583
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=58
+%%%mzn-stat-end
+Finished in 5m 1s

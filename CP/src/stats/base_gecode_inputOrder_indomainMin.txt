@@ -1,0 +1,171 @@
+Running base.mzn with ins-1.dzn
+8 8
+4
+3 3 0 0
+3 5 0 3
+5 3 3 0
+5 5 3 3
+----------
+==========
+%%%mzn-stat: initTime=0.000617
+%%%mzn-stat: solveTime=0.000284
+%%%mzn-stat: solutions=2
+%%%mzn-stat: variables=18
+%%%mzn-stat: propagators=13
+%%%mzn-stat: propagations=193
+%%%mzn-stat: nodes=25
+%%%mzn-stat: failures=9
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=6
+%%%mzn-stat-end
+Finished in 121msec
+Running base.mzn with ins-2.dzn
+9 9
+5
+3 3 0 0
+3 4 3 0
+3 5 3 4
+3 6 0 3
+3 9 6 0
+----------
+==========
+%%%mzn-stat: initTime=0.000635
+%%%mzn-stat: solveTime=0.000192
+%%%mzn-stat: solutions=4
+%%%mzn-stat: variables=22
+%%%mzn-stat: propagators=15
+%%%mzn-stat: propagations=254
+%%%mzn-stat: nodes=36
+%%%mzn-stat: failures=13
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=11
+%%%mzn-stat-end
+Finished in 114msec
+Running base.mzn with ins-3.dzn
+10 10
+6
+3 3 0 0
+3 4 3 0
+3 6 3 4
+3 7 0 3
+4 4 6 0
+4 6 6 4
+----------
+==========
+%%%mzn-stat: initTime=0.000596
+%%%mzn-stat: solveTime=0.009032
+%%%mzn-stat: solutions=4
+%%%mzn-stat: variables=26
+%%%mzn-stat: propagators=17
+%%%mzn-stat: propagations=30724
+%%%mzn-stat: nodes=3976
+%%%mzn-stat: failures=1981
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=20
+%%%mzn-stat-end
+Finished in 121msec
+Running base.mzn with ins-4.dzn
+11 11
+7
+3 3 0 0
+3 4 0 3
+3 5 8 0
+3 6 8 5
+5 3 3 0
+5 4 3 3
+8 4 0 7
+----------
+==========
+%%%mzn-stat: initTime=0.00062
+%%%mzn-stat: solveTime=1.82531
+%%%mzn-stat: solutions=4
+%%%mzn-stat: variables=30
+%%%mzn-stat: propagators=19
+%%%mzn-stat: propagations=7267528
+%%%mzn-stat: nodes=1208065
+%%%mzn-stat: failures=604024
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=23
+%%%mzn-stat-end
+Finished in 1s 943msec
+Running base.mzn with ins-5.dzn
+12 12
+8
+3 3 0 0
+3 4 6 0
+3 5 9 0
+3 6 0 3
+3 7 9 5
+3 8 6 4
+3 9 3 0
+6 3 0 9
+----------
+==========
+%%%mzn-stat: initTime=0.000661
+%%%mzn-stat: solveTime=42.3702
+%%%mzn-stat: solutions=3
+%%%mzn-stat: variables=34
+%%%mzn-stat: propagators=21
+%%%mzn-stat: propagations=145411280
+%%%mzn-stat: nodes=23131481
+%%%mzn-stat: failures=11565738
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=30
+%%%mzn-stat-end
+Finished in 42s 419msec
+Running base.mzn with ins-6.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.000655
+%%%mzn-stat: solveTime=299.884
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=38
+%%%mzn-stat: propagators=23
+%%%mzn-stat: propagations=858630311
+%%%mzn-stat: nodes=138841480
+%%%mzn-stat: failures=69420735
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=27
+%%%mzn-stat-end
+Finished in 5m 0s
+Running base.mzn with ins-7.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.000714
+%%%mzn-stat: solveTime=299.884
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=38
+%%%mzn-stat: propagators=23
+%%%mzn-stat: propagations=939157728
+%%%mzn-stat: nodes=155841349
+%%%mzn-stat: failures=77920669
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=23
+%%%mzn-stat-end
+Finished in 5m 0s
+Running base.mzn with ins-8.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.000703
+%%%mzn-stat: solveTime=299.881
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=42
+%%%mzn-stat: propagators=25
+%%%mzn-stat: propagations=912259025
+%%%mzn-stat: nodes=135197758
+%%%mzn-stat: failures=67598873
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=24
+%%%mzn-stat-end
+Finished in 4m 59s
+Running base.mzn with ins-9.dzn
+=====UNKNOWN=====
+%%%mzn-stat: initTime=0.000683
+%%%mzn-stat: solveTime=299.884
+%%%mzn-stat: solutions=0
+%%%mzn-stat: variables=42
+%%%mzn-stat: propagators=25
+%%%mzn-stat: propagations=868959151
+%%%mzn-stat: nodes=130119822
+%%%mzn-stat: failures=65059904
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=27
+%%%mzn-stat-end
+Finished in 5m 0s
