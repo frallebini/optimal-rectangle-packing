@@ -1,0 +1,4 @@
+plate_width = 8;
+n_circuits = 4;
+widths = [3, 3, 5, 5];
+lengths = [3, 5, 3, 5];
